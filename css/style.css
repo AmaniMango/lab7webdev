@@ -32,8 +32,10 @@ table {
 }
 
 img {
-  width: 40px;
-  height: 40px;
+  width: 60px;
+  height: 60px;
+  border-radius: 70%;
+  box-shadow: 0 4px 6px rgb(185, 127, 182);
 }
 
 
